@@ -1,0 +1,1 @@
+mahasiswa = ['torik', 'ara', 'iprann', 'mamhes']
